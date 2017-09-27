@@ -1,6 +1,6 @@
 # GuideAlign
 
-Application for aligning CROPseq libQC FASTQ reads to gRNA library references.
+Application for aligning CROP-seq libQC FASTQ reads to gRNA library references.
 
 Argument specifications
 
